@@ -17,4 +17,5 @@ These general rules apply to all RPS (Rock, Paper, Scissors) games, its triparti
 
 ### Rules :
 
+
 ![rps-rules](./RPS.png)
