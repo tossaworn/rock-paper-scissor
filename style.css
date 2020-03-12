@@ -6,7 +6,8 @@
   
   section {
     height: 100vh;
-    background-color: rgb(39, 41, 68);
+    /*background-color: rgb(39, 41, 68);*/
+    background-color: #FFFFFF;
     font-family: sans-serif;
   }
   
