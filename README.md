@@ -2,6 +2,8 @@
 
 These general rules apply to all RPS (Rock, Paper, Scissors) games, its tripartite variants known in any permutation and/or combination of the following Scissors Paper Rock/Stone.
 
+### Play now!
+  https://tossaworn.github.io/rock-paper-scissor/
 
 ### How to play
 
