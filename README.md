@@ -1,5 +1,7 @@
 ## Rock, Paper, Scissors Game
 
+“ ฆ้อน กรรไกร กระดาษ ” เกมวัดใจที่ไม่ต้องใช้เทคนิค ไม่ต้องวางกลลึก เพราะถึงที่สุดแล้วคุณจะโดนฝ่ายตรงข้ามอ่านทางออกจนหมดเปลือก ทางเดียวที่คุณจะชนะเกมได้อย่างแท้จริงคือการอ่านใจฝ่ายตรงข้ามให้ทะลุเท่านั้น
+
 You can use the [editor on GitHub](https://github.com/tossaworn/rock-paper-scissor/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
