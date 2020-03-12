@@ -1,39 +1,19 @@
 ## Rock, Paper, Scissors Game
 
-“ ฆ้อน กรรไกร กระดาษ ” เกมวัดใจที่ไม่ต้องใช้เทคนิค ไม่ต้องวางกลลึก เพราะถึงที่สุดแล้วคุณจะโดนฝ่ายตรงข้ามอ่านทางออกจนหมดเปลือก ทางเดียวที่คุณจะชนะเกมได้อย่างแท้จริงคือการอ่านใจฝ่ายตรงข้ามให้ทะลุเท่านั้น
+These general rules apply to all RPS (Rock, Paper, Scissors) games, its tripartite variants known in any permutation and/or combination of the following Scissors Paper Rock/Stone.
 
-You can use the [editor on GitHub](https://github.com/tossaworn/rock-paper-scissor/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### How to play
 
-### Markdown
+1. Let; Play
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+2. Choose an option
+  - Rock
+  - Paper
+  - Scissors
+  
+3. Answer : Tie, PlayerWin, ComputerWin 
 
-```markdown
-Syntax highlighted code block
+### Rules :
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tossaworn/rock-paper-scissor/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![rps-rules](./RPS.png)
