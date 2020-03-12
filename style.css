@@ -29,7 +29,8 @@
   }
   
   .intro {
-    color: rgb(224, 224, 224);
+    /* color: rgb(224, 224, 224); */
+    color: #000000;
     height: 50vh;
     display: flex;
     flex-direction: column;
@@ -47,7 +48,8 @@
     height: 50px;
     background: none;
     border: none;
-    color: rgb(224, 224, 224);
+    /* color: rgb(224, 224, 224); */
+    color: #000000;
     font-size: 20px;
     background: rgb(45, 117, 96);
     border-radius: 3px;
@@ -62,7 +64,8 @@
     transition: opacity 0.5s ease 0.5s;
   }
   .winner {
-    color: rgb(224, 224, 224);
+    /* color: rgb(224, 224, 224); */
+    color: #000000;
     text-align: center;
     font-size: 50px;
   }
