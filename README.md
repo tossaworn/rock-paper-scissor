@@ -8,6 +8,7 @@ These general rules apply to all RPS (Rock, Paper, Scissors) games, its triparti
 ### How to play :
 
 1. Let's Play
+
 2. Choose an option
   - Rock
   - Paper
